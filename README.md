@@ -17,3 +17,4 @@ This tutorial focuses only on data structures, which is the [fourth chapter](htt
 | 5 | [Deque](./Deque.ipynb) | 4.15 - 4.18 |
 | 6 | [Linked List](./LinkedList.ipynb) | 4.20 - 4.23 |
 | 7 | [Summary & Exercises] (./Summary.ipynb) | 4.24 - 4.27 |
+| 8 | [Object-Oriented Programming] (./Object-OrientedProgramming.ipynb) | [Realpython-OOP](https://realpython.com/python3-object-oriented-programming/) |
