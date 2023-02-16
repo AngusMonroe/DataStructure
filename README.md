@@ -11,3 +11,4 @@ This tutorial focuses only on data structures, which is the [fourth chapter](htt
 | | Title | Book Chapter |
 | --- | --- | --- |
 | 1 | [List](./List.ipynb) | 4.1 - 4.2, 4.19 |
+| 2 | [Stack](./Stack.ipynb) | 4.3 - 4.7 |
